@@ -1,0 +1,15 @@
+[submodule "mircoservicesServer"]
+	path = mircoservicesServer
+	url = https://github.com/SkarletKill/MicroservicesServer
+[submodule "mircoservicesZuul"]
+	path = mircoservicesZuul
+	url = https://github.com/SkarletKill/MicroservicesZuul
+[submodule "mircoservicesTask2"]
+	path = mircoservicesTask2
+	url = https://github.com/SkarletKill/MicroservicesTask2
+[submodule "mircoservicesNews"]
+	path = mircoservicesNews
+	url = https://github.com/SkarletKill/MicroservicesNews
+[submodule "mircoservicesFrontend"]
+	path = mircoservicesFrontend
+	url = https://github.com/SkarletKill/MicroservicesFrontend
